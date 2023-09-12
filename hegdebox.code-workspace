@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../xampp/htdocs/formdatabase"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hegdebox"
+	}
+}
